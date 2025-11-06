@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11468601111",
+    "project_id": "poll-trial",
+    "storage_bucket": "poll-trial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11468601111:android:889bab11c26cf77d4d6952",
+        "android_client_info": {
+          "package_name": "yusufs.turan.polltrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxj5z1-1aaM5c6vHFkZCWlxnpxK_FRCF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
